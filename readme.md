@@ -15,6 +15,25 @@
 <p>The dataset you can download is formed by three classes: MONKEYPOX, NORMAL (HEALTHY) and OTHER SKIN DAMAGES. Each class is formed by 100 images (and increasing) of close superficial skin tissue.</p>
 
 <p>Here you can see some examples from each class:</p>
+ 
+  <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
+ 
 
 1. MONKEYPOX class:
 
