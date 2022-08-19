@@ -18,30 +18,26 @@
  
   <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Monkeypox</th>
+    <th>Normal</th>
+    <th>Others</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/nor1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp2.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/nor2.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth2.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/nor3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
   </tr>
 </table> 
- 
-
-1. MONKEYPOX class:
-
- <img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg" alt="Monkeypox1" width="112" height="112"> 
-  
-2. NORMAL (HEALTHY) class:
-
-3. OTHER SKIN DAMAGES class:
   
 </body>
 </html> 
