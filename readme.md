@@ -18,9 +18,9 @@
  
   <table class="center" style="border:1px solid black">
   <tr>
-    <th>Monkeypox</th>
-    <th>Normal</th>
-    <th>Others</th>
+    <th><b>Monkeypox</b></th>
+    <th><b>Normal</b></th>
+    <th><b>Others</b></th>
   </tr>
   <tr>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
