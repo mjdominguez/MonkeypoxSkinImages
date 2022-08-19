@@ -18,7 +18,7 @@
 
 1. MONKEYPOX class:
 
- <img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg" alt="Monkeypox1" width="224" height="224"> 
+ <img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg" alt="Monkeypox1" width="112" height="112"> 
   
 2. NORMAL (HEALTHY) class:
 
