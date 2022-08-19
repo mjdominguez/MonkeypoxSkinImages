@@ -43,7 +43,7 @@ The work were this dataset is described is "Monkeypox Diagnostic-Aid System with
  
 You can cite this work using this suggested citation:
 
-<strong>Muñoz-Saavedra, Luis and Escobar-Linero, Elena and Civit-Masot, Javier and Luna-Perejón, Francisco and Civit, Antón and Domínguez-Morales, Manuel, Monkeypox Diagnostic-Aid System with Skin Images Using Convolutional Neural Networks. Available at SSRN: https://ssrn.com/abstract=4186534 </strong>
+<strong><i>Muñoz-Saavedra, Luis and Escobar-Linero, Elena and Civit-Masot, Javier and Luna-Perejón, Francisco and Civit, Antón and Domínguez-Morales, Manuel, Monkeypox Diagnostic-Aid System with Skin Images Using Convolutional Neural Networks. Available at SSRN: https://ssrn.com/abstract=4186534 </i></strong>
   
 </body>
 </html> 
