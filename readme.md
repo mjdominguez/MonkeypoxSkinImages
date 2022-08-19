@@ -16,7 +16,7 @@
 
 <p>Here you can see some examples from each class:</p>
  
-  <table class="center">
+  <table class="center" style="border:1px solid black">
   <tr>
     <th>Monkeypox</th>
     <th>Normal</th>
