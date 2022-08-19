@@ -17,6 +17,8 @@
 <p>Here you can see some examples from each class:</p>
 
 1. MONKEYPOX class:
+
+[Monkeypox1](https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg)
   
 2. NORMAL (HEALTHY) class:
 
