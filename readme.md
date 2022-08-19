@@ -37,7 +37,9 @@
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/nor3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
   </tr>
-</table> 
+</table>
+
+The work were this dataset is described is "Monkeypox Diagnostic-Aid System with Skin Images Using Convolutional Neural Networks" and can be accesed in pre-print mode using this link:  http://ssrn.com/abstract=4186534
   
 </body>
 </html> 
