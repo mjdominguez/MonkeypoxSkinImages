@@ -25,7 +25,7 @@
   <tr>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/nor1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
-    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth1.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth1.png" alt="Monkeypox1" width="112" height="112"> </td>
   </tr>
   <tr>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp2.jpg" alt="Monkeypox1" width="112" height="112"> </td>
@@ -33,7 +33,7 @@
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth2.jpg" alt="Monkeypox1" width="112" height="112"> </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
+    <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/mkp3.png" alt="Monkeypox1" width="112" height="112"> </td>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/nor3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
     <td><img src="https://github.com/mjdominguez/MonkeypoxSkinImages/blob/main/Examples/oth3.jpg" alt="Monkeypox1" width="112" height="112"> </td>
   </tr>
