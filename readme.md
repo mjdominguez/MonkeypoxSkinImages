@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>MonkeypoxSkin dataset</title>
-</head>
 <body>
 
-<h1>My First Heading</h1>
+<h1>MonkeypoxSkin dataset</h1>
 <p>My first paragraph.</p>
 
 This dataset has been generated using images from other datasets and others obtained from trusted webpages (like CDC), and trimmed to square skin sections of 224x224 pixels.
