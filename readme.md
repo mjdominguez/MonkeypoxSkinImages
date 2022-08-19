@@ -17,6 +17,10 @@
 <p>Here you can see some examples from each class:</p>
 
 1. MONKEYPOX class:
+  
+2. NORMAL (HEALTHY) class:
 
+3. OTHER SKIN DAMAGES class:
+  
 </body>
 </html> 
